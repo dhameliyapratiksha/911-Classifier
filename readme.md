@@ -10,4 +10,4 @@
 * Matplotlib
 * Seaborn
 
-![Count PLot](./countplot.png)
+![Count PLot](countplot.png)
